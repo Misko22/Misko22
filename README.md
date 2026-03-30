@@ -47,5 +47,7 @@ A Flutter + Firebase iOS app for sending quick emotional check-ins to people you
 ---
 
 <p align="center">
-  <img src="https://www.instagram.com/techana._/&color=9B6FD4&style=flat-square&label=profile+views" />
+  <a href="https://www.instagram.com/techana._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Misko22&color=9B6FD4&style=flat-square&label=profile+views" />
 </p>
