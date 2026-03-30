@@ -47,5 +47,5 @@ A Flutter + Firebase iOS app for sending quick emotional check-ins to people you
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Misko22&color=9B6FD4&style=flat-square&label=profile+views" />
+  <img src="[https://komarev.com/ghpvc/?username=Misko22](https://www.instagram.com/techana._/)&color=9B6FD4&style=flat-square&label=profile+views" />
 </p>
