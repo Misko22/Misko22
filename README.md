@@ -1,53 +1,95 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B6FD4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=From+the+lab+bench+to+the+App+Store.;Biotech+%2B+Code+%2B+Curiosity+%3D+TechAna" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,50:9B6FD4,100:BFA3E8&height=220&section=header&text=✨%20TechAna%20✨&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=biotech%20%2B%20code%20%2B%20curiosity&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/joana-bala-a71881130"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://linktr.ee/joana_bala"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="https://testflight.apple.com/join/hnbyHf8a"><img src="https://img.shields.io/badge/SHnoSH_on_TestFlight-9B6FD4?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=BFA3E8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=From+the+lab+bench+to+the+App+Store+%F0%9F%94%AE;Building+things+instead+of+waiting+until+ready+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/joana-bala-a71881130"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/techana._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://linktr.ee/joana_bala"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>&nbsp;
+  <a href="https://testflight.apple.com/join/hnbyHf8a"><img src="https://img.shields.io/badge/SHnoSH_TestFlight-9B6FD4?style=for-the-badge&logo=apple&logoColor=white" /></a>
 </p>
 
 ---
 
-### Hey, I'm Joana
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
-I'm a lab operations technician at **SCIEX** who taught herself to build apps. Originally from Albania, now in Canada. I work with lab systems, automation, and data by day, and I ship software by night.
+### hey, I'm Joana 💜
 
-I didn't follow the typical developer path. I came from biotechnology, picked up programming, and decided to build things instead of waiting until I felt "ready." That decision led to **SHnoSH** — my first app, built solo, now submitted to the App Store.
+🇦🇱→🇨🇦 Albanian in Canada
 
-I talk about this journey publicly under the **TechAna** brand, because I think more scientists should know they can build things too.
+🧬 Lab operations technician at **SCIEX** by day
+
+📱 Solo app developer by night
+
+🔮 Building **SHnoSH** — my first app, now in App Store Review
+
+🎤 Speaker on AI Literacy in STEM
+
+✨ Everything I build lives under the **TechAna** brand
+
+<br clear="right"/>
 
 ---
 
 ### 🔮 SHnoSH — *Send love across any distance*
 
-A Flutter + Firebase iOS app for sending quick emotional check-ins to people you care about. Not a messenger. Not social media. Just a way to say *"I'm thinking of you"* with one tap.
+> A Flutter + Firebase iOS app for sending quick emotional check-ins to the people you care about. Not a messenger. Not social media. Just one tap to say *"I'm thinking of you"* 💜
 
-**Built with:** Flutter, Dart, Firebase Auth, Cloud Firestore, Cloud Functions, FCM push notifications, Codemagic CI/CD
+```
+Status:  ✅ Submitted to App Store Review (Build 17)
+Stack:   Flutter · Dart · Firebase · Cloud Functions · FCM · Codemagic
+```
 
-**Status:** Submitted to App Store Review (Build 17) · [Try it on TestFlight](https://testflight.apple.com/join/hnbyHf8a)
-
----
-
-### 🧰 What I work with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,kotlin,cpp,git,github,vscode" />
+<p align="center">
+  <a href="https://testflight.apple.com/join/hnbyHf8a">
+    <img src="https://img.shields.io/badge/✨_Try_it_on_TestFlight-9B6FD4?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🎤 Recently
+### 💻 tech I build with
 
-- Spoke on **"AI Literacy in Modern STEM: Beyond Prompts and Hype"** at AI Hub Albania & R-Ladies Tirana
-- Shipped SHnoSH from zero to App Store as a solo developer on Windows (yes, an iOS app from Windows)
-- Building in public under [TechAna](https://linkedin.com/in/joana-bala-a71881130) on LinkedIn and Instagram
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,kotlin,cpp,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+### 🎤 lately
+
+✨ Spoke on **"AI Literacy in Modern STEM: Beyond Prompts and Hype"** for AI Hub Albania & R-Ladies Tirana
+
+✨ Shipped SHnoSH from zero to App Store as a solo dev on Windows *(yes, an iOS app from Windows)*
+
+✨ Building in public under **TechAna** on LinkedIn and Instagram
+
+---
+
+### 🧬 my crossover story
+
+```text
+biotechnology ──→ lab systems ──→ automation ──→ data ──→ programming ──→ Flutter ──→ App Store
+                                                                                        ↑
+                                                                                    you are here 🔮
+```
 
 ---
 
 <p align="center">
-  <a href="https://www.instagram.com/techana._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Misko22&color=9B6FD4&style=flat-square&label=profile+views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Misko22&theme=midnight-purple&hide_border=true&background=0D0A1A&stroke=9B6FD4&ring=BFA3E8&fire=D4A843&currStreakLabel=BFA3E8&sideLabels=BFA3E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B6FD4" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Misko22&color=9B6FD4&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,50:9B6FD4,100:BFA3E8&height=120&section=footer" width="100%" />
 </p>
